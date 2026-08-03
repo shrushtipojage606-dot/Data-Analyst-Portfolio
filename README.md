@@ -28,7 +28,7 @@ End-to-end customer analytics project featuring data cleaning, EDA, KPI reportin
 
 ---
 
-### 2. [Data Analyst Portfolio](https://github.com/shrushtipojage606-dot/Data-Analyst-Portfolio)
+### 2. [AI-Powered Missing Person Traking Website](https://github.com/shrushtipojage606-dot/Data-Analyst-Portfolio)
 
 A collection of SQL, Python, Power BI, Tableau, and Excel projects demonstrating practical business analytics skills.
 
@@ -50,7 +50,7 @@ Business intelligence dashboard analyzing inventory, pricing, discounts, stock a
 
 ---
 
-### 5. [SQL Business Analysis](https://github.com/shrushtipojage606-dot/SQL-Business-Analysis)
+### 5. [Netflix Data Exploration](https://github.com/shrushtipojage606-dot/Netflix-Data-Exploration)
 
 Collection of real-world SQL case studies covering joins, CTEs, window functions, ranking, aggregation, and optimization.
 
