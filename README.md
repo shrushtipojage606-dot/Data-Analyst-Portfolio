@@ -59,7 +59,7 @@ An AI-powered customer analytics platform that collects, analyzes, and visualize
 
 ---
 
-## 2️⃣ [Customer Churn & Retention Analysis System](https://github.com/shrushtipojage606-dot/Customer-Churn-and-Retention-Analysis-System)
+## 2️⃣ [Customer Churn & Retention Analysis System](https://github.com/shrushtipojage606-dot/Customer-Churn-and-Retention-Analysis-System.)
 
 An end-to-end customer analytics solution that identifies customers at risk of churning, uncovers key churn drivers, predicts customer behavior using machine learning, and recommends retention strategies to improve customer loyalty and business growth.
 
